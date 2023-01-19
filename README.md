@@ -15,7 +15,7 @@ The provided notebooks require the objects within the main folder. So if you end
 ### IR_notebook
 
 For the IR notebook, you can put the connect the environment with your Google Drive, if not you can remove the last two lines from the second cell.
-This notebook requires **GTv6.obj** and **dexV2.obj** to run, which are found in the main folder. 
+This notebook requires **GTv6.obj** and **dexV2.obj** to run, which are found in the main folder. Unzip **dexV2.zip** to get **dexV2.obj**.
 Adjust the path to these objects when loading them in cell 5 and 12.
 
 The results of each step are saved in the *results* dictionnary object which you can call anytime to see the saved results.
