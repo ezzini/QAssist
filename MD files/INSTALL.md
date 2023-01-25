@@ -1,7 +1,7 @@
 # INSTALL
 
-QAssist artifact is composed from two main notebooks. 
-The artifact can be runned in a local environment or in the cloud (e.g., Google Colab).
+QAssist artifact is composed of two main notebooks. 
+The artifact can be executed in a local environment or in the cloud (e.g., Google Colab).
 
 
 ## Local environment
@@ -40,4 +40,4 @@ The first cell of *MRC_notebook.ipynb* notebook is:
 Each cell will install the required libraries and their dependencies
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, open an issue to discuss what you would like to change.
