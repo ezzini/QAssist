@@ -24,7 +24,7 @@ At the end of the notebook, the *results* object can be visualized as a Pandas t
 
 ### MRC_notebook
 
-Similar to the IR notebook, you connect to Google Drive, or remove the last two line of the second cell. 
+Similar to the IR notebook, you connect to Google Drive, or remove the last two lines of the second cell. 
 This notebook requires **GTv6.obj** to run, which can be found in the *main* folder. 
 Adjust the path to this object when loading it in cell 5.
 
